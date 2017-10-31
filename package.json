@@ -1,0 +1,35 @@
+{
+  "name": "passport-workwell",
+  "version": "1.0.0",
+  "description": "Passport for Workwell",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emathieu13/passport-workwell"
+  },
+  "keywords": [
+    "passport",
+    "workwell",
+    "authentication"
+  ],
+  "author": {
+    "name": "Kimind"
+  },
+  "contributors": [
+    {
+      "name": "Eric Mathieu",
+      "email": "eric.mathieu13@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "latest",
+    "request": "latest",
+    "workwell": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/emathieu13/passport-workwell/issues"
+  },
+  "homepage": "https://github.com/emathieu13/passport-workwell",
+  "_id": "passport-workwell@1.0.0"
+}
